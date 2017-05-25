@@ -4,7 +4,7 @@ TRAPPIST-1d, also designated as 2MASS J23062928-0502285 d, is an exoplanet, like
 
 <div class='pull-right' markdown="1">
 
-![This is an image](/assets/trap1d.jpeg)
+![This is an image](/assets/trap1d.jpeg){:height="360px" width="360px"}
 
 </div>
 
