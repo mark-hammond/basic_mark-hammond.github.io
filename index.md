@@ -8,6 +8,11 @@ This is the **index** page.
 
 This site is built with Jekyll.
 
+<img class="col one right" src="/assets/trap1d.jpeg">
+
+<br/>
+Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>.
+
 | I am text to the left  | ![trap1d](/assets/trap1d.jpeg){:height="50%" width="50%"} |
 | I am text to the left  | ![trap1d](/assets/trap1d.jpeg){:class="img-responsive"} |
 
