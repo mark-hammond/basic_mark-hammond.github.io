@@ -8,7 +8,8 @@ This is the **index** page.
 
 This site is built with Jekyll.
 
-| I am text to the left  | ![trap1d](/assets/trap1d.jpeg) |
+| I am text to the left  | ![trap1d](/assets/trap1d.jpeg){:height="50%" width="50%"} |
+| I am text to the left  | ![trap1d](/assets/trap1d.jpeg){:class="img-responsive"} |
 
 
   <ul class="post-list">
