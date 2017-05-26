@@ -8,6 +8,8 @@ This is the **index** page.
 
 This site is built with Jekyll.
 
+<img style="float: right;" src="/assets/trap1d.jpeg">
+
 
   <ul class="post-list">
     {% for post in site.posts %}
