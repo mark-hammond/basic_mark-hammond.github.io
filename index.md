@@ -8,7 +8,7 @@ This is the **index** page.
 
 This site is built with Jekyll.
 
-<img style="float: right;" src="/assets/trap1d.jpeg">
+| I am text to the left  | ![trap1d](/assets/trap1d.jpeg) |
 
 
   <ul class="post-list">
